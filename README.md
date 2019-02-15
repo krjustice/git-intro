@@ -22,7 +22,7 @@ ___________
 - Write a short description.
 - Select Initialize this repository with a README.  
 
-### 2. Branching  
+### 2. BRANCHING 
 ___________
 It is a way to work on different versions of a repository at one time.   
 By default your repository has one branch named `master` which is considered to be the definitive branch. 
@@ -39,7 +39,7 @@ ___________
 - Write a commit message that describes your changes.
 - Click `Commit` changes button.  
 
-### 4. PRs (Pull Requests) & Commits 
+### 4. PRs (Pull Requests) & COMMITS
 ___________
 PRs are the heart of collaboration on GitHub. 
 When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. 
